@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Situ277
-- 👀 I’m interested in fronted 
-- 🌱 I’m currently learning java
+- 👋 Hi, I’m @nikita
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
